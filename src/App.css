@@ -1,0 +1,18 @@
+.card {
+  border: 1px solid #aaa;
+  border-radius: 8px;
+  margin: 16px;
+  padding: 16px;
+}
+
+.table.margin {
+  margin: 16px;
+  width: calc(100% - 32px);
+  border: 1px solid #aaa;
+  border-radius: 8px;
+
+}
+
+.btn-margin{
+  margin: 0 4px;
+}
